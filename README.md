@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors
-Rock ,Paper &amp; Scissors is the game which is created using HTML, CSS and Javascript.
+# Rock-Paper-Scissor
+Rock ,Paper &amp; Scissor is the game which is created using HTML, CSS and Javascript.
